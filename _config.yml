@@ -1,0 +1,28 @@
+name: Guardians
+favicon: null
+layout_spectrum: 0.8914531734772027
+typography_spectrum: 0.46167732239700854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3430350157432258
+  lightness: 0.36775423772633076
+  saturation: 0.0293191762175411
+  rhythmicContrast: 0.723167089279741
+purpose: []
